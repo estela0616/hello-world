@@ -3,5 +3,10 @@ From github tutorial
 
 Hi All! 
 
-I'm Estela, I'm currently studying Javascript, HTML, CSS and Python. Hoping to build my own app in the future. 
-On my free time, you can find me tending our small garden, watching movies/series or reading kindle.
+Estela here!
+
+I love coding in different languages and I'm now learning HTML, CSS, Javascript and Python.
+I equally love nature and everything related to it - traveling, beaches, extreme water sports, urban container gardening and composting.
+I plan to launch my own mobile app in the future that would benefit all start up companies around the world, especially those who are seeking to preserve and sustain our environment.
+
+
