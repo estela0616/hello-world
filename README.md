@@ -1,9 +1,7 @@
 # hello-world
 From github tutorial
 
-Hi All! 
-
-Estela here!
+Hello, I'm Estela!
 
 I love coding in different languages and I'm now learning HTML, CSS, Javascript and Python.
 I equally love nature and everything related to it - traveling, beaches, extreme water sports, urban container gardening and composting.
